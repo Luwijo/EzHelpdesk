@@ -15,4 +15,4 @@ A simple HTML, PHP, and MySQL coded ticket helpdesk website. Not for public rele
   - Ticket management (Add categories),
   - Site management (configure site options; name, URL, theme (Bootstrap/Bootswatch), use reCaptchure (and add site/private keys)
 # Video Showcase
-[![Ez Helpdesk](https://img.youtube.com/vi/iaHJLhqiBzI/0.jpg)](https://www.youtube.com/watch?v=iaHJLhqiBzI)
+[![Ez Helpdesk](https://img.youtube.com/vi/iaHJLhqiBzI/maxresdefault.jpg)](https://www.youtube.com/watch?v=iaHJLhqiBzI)
